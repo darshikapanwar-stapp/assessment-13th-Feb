@@ -34,7 +34,7 @@ const CharactersPage = () => {
     <div className="min-h-screen bg-gray-100 p-8">
       <div className="max-w-6xl mx-auto">
         <h1 className="text-4xl font-bold text-center mb-6">
-          🧙 Characters (React Query)
+          🧙 Characters
         </h1>
 
         <div className="flex justify-center mb-6 gap-4">
